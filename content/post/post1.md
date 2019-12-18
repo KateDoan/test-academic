@@ -5,6 +5,7 @@ authors: ["admin"]
 tags: ["Epi Modelling", "AI"]
 draft: false
 ---
+{{< figure library="true" src="pic2.png" title="A caption" lightbox="true" >}}
 Hi, I am writing Post 1.
 Post 1 is the first post.
 Post 1 is the post before post 2.
