@@ -1,5 +1,5 @@
 ---
-title: "Common mistakes that novice modellers made"
+title: "Common modelling mistakes that novices made"
 date: 2019-12-18T12:32:32+08:00
 authors: ["admin"]
 tags: ["Epi Modelling", "AI"]
