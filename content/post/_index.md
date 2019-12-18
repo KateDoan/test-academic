@@ -1,5 +1,7 @@
 ---
 title: Posts
+date: "2019-12-12"
+type: "widget_page"
 
 # View.
 #   1 = List
