@@ -3,6 +3,8 @@ title: "Post1"
 date: 2019-12-18T12:32:32+08:00
 authors: ["admin"]
 tags: ["Epi Modelling", "AI"]
+header:
+  image: "pic2.png"
 draft: false
 ---
 {{< figure library="true" src="pic2.png" title="A caption" lightbox="true" >}}
