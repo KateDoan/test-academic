@@ -14,6 +14,11 @@
   weight = 20
 
 [[main]]
+  name = "People"
+  url = "people"
+  weight = 80
+
+[[main]]
   name = "Page 1"
   url = "page1"
   weight = 70
