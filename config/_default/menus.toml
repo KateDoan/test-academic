@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Page 1"
-  url="page1"
+  url = "page1"
   weight = 70
 
 [[main]]
