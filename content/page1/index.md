@@ -1,6 +1,13 @@
----
++++
 title: "Landing Page"  # Add a page title.
 summary: "Hello!"  # Add a page description.
 date: "2019-01-01T00:00:00Z"  # Add today's date.
-type: "pages"  # Page type is a Widget Page
----
+type: "widget-pages"  # Page type is a Widget Page
+
+[content]
+  page_type = "post"
+
+  count = 0
+
+  order = "desc"
++++
