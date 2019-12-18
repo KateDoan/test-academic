@@ -16,7 +16,7 @@
 [[main]]
   name = "Page 1"
   url="page1"
-  weight = 25
+  weight = 70
 
 [[main]]
   name = "Projects"
