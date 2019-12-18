@@ -3,11 +3,13 @@ title: "Post1"
 date: 2019-12-18T12:32:32+08:00
 authors: ["admin"]
 tags: ["Epi Modelling", "AI"]
-header:
-  image: "pic2.png"
 draft: false
+image:
+  placement: 1
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  focal_point: "Center"
+  preview_only: false
 ---
-{{< figure library="true" src="pic2.png" title="A caption" lightbox="true" >}}
 Hi, I am writing Post 1.
 Post 1 is the first post.
 Post 1 is the post before post 2.
