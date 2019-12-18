@@ -10,8 +10,13 @@
 
 [[main]]
   name = "Posts"
-  url = "post"
+  url = "posts"
   weight = 20
+
+[[main]]
+  name = "Page 1"
+  url="page1"
+  weight = 25
 
 [[main]]
   name = "Projects"
