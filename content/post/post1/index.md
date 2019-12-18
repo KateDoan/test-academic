@@ -1,5 +1,5 @@
 ---
-title: "Post1"
+title: "Common mistakes that novice modellers made"
 date: 2019-12-18T12:32:32+08:00
 authors: ["admin"]
 tags: ["Epi Modelling", "AI"]
@@ -10,8 +10,4 @@ image:
   focal_point: "Center"
   preview_only: false
 ---
-Hi, I am writing Post 1.
-Post 1 is the first post.
-Post 1 is the post before post 2.
-Post 1 is the post before any other posts.
-
+Aliquam vestibulum morbi blandit cursus risus at ultrices. Ipsum nunc aliquet bibendum enim. Posuere ac ut consequat semper. Metus dictum at tempor commodo ullamcorper. Ut placerat orci nulla pellentesque dignissim. Diam donec adipiscing tristique risus nec feugiat in fermentum. In eu mi bibendum neque egestas congue quisque egestas. Proin sagittis nisl rhoncus mattis rhoncus urna. Venenatis urna cursus eget nunc scelerisque viverra. Augue interdum velit euismod in pellentesque massa placerat duis.
