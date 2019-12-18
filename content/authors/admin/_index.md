@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Epi Team
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Epi Modelling Professionals
+role: Network of Modelling Professionals
 
 # Organizations/Affiliations
 organizations:
-- name: Epion University
+- name: ""
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
