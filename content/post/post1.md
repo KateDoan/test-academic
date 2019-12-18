@@ -1,6 +1,8 @@
 ---
 title: "Post1"
 date: 2019-12-18T12:32:32+08:00
+authors: ["admin"]
+tags: ["Epi Modelling", "AI"]
 draft: false
 ---
 Hi, I am writing Post 1.

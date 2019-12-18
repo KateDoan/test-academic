@@ -1,6 +1,8 @@
 ---
 title: "I am the second post"
 date: 2019-12-18T12:32:32+08:00
+authors: ["admin", "jean-bond"]
+tags: ["Public Health", "Epi Modelling"]
 draft: false
 ---
 What is Lorem Ipsum?

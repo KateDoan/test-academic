@@ -1,6 +1,8 @@
 ---
 title: "I am the first post"
 date: 2019-12-18T12:32:32+08:00
+authors: ["jean-bond"]
+tags: ["Epi Modelling", "AI"]
 draft: false
 ---
 Why do we use it?

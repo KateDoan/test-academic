@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Jean is a researcher is environmental data science. She loves learning new technologies and use her skills to make useful products.
+Jean is a researcher in environmental data science. She loves learning new technologies and use her skills to make useful products.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
