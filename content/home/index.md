@@ -4,4 +4,5 @@ type : "widget_page"
 headless : true  # Homepage is headless, other widget pages are not.
 header:
   image: "pic2.png"
+  caption: "This is a caption"
 ---
