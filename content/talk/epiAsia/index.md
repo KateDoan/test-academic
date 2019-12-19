@@ -1,6 +1,6 @@
 ---
 title: "epiAsia Talk"
-date: 2019-12-12T08:00+08:00
+date: "20/10/2019"
 summary: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." 
 ---
 Venue: SSHSPH
