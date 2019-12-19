@@ -6,4 +6,6 @@ links:
     url: 'https://twitter.com/Twitter'
   - name: Originally published on Medium
     url: 'https://medium.com'
+
+featured: true
 ---
