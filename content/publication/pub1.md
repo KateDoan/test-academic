@@ -1,9 +1,7 @@
 ---
 title : "My publication"
 
-social:
-- icon: "da"
-  link: links:
+links:
   - name: Follow
     url: 'https://twitter.com/Twitter'
   - name: Originally published on Medium
