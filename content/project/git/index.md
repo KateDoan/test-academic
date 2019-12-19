@@ -2,8 +2,8 @@
 title: VERSION CONTROL & COLLAB
 summary: Be more efficient with Git
 authors: ["jean-bond"]
-header:
-  links:
+social:
+links:
   - icon_pack: fab
     icon: twitter
     name: Follow
