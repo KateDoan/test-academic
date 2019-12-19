@@ -42,4 +42,4 @@ $$\gamma_{n} = \frac{
 ### Homework
 [Homework1](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
 
-[Homwwork2](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
+[Homework2](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
