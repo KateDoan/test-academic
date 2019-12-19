@@ -7,7 +7,7 @@ links:
   - name: DOI
     url: 'https://doi.org/10.1016/j.ebiom.2016.08.042'
   - name: PDF
-    url: 'hhttps://www.sciencedirect.com/science/article/pii/S235239641630398X'
+    url: 'https://www.thelancet.com/action/showPdf?pii=S2352-3964%2816%2930398-X'
 
 featured: true
 ---
