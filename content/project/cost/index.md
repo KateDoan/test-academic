@@ -34,10 +34,12 @@ $$\gamma_{n} = \frac{
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 
-# Lecture Notes
+### Lecture Notes
 [Lecture1](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
+
 [Lecture2](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
 
-# Homework
+### Homework
 [Homework1](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
+
 [Homwwork2](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
