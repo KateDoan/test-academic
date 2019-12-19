@@ -23,19 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Modelling"
+  name = "Epi Modelling"
   description = "Ultricies tristique nulla aliquet enim"  
   
 [[feature]]
   icon = "handshake"
   icon_pack = "fas"
-  name = "Collaboration"
+  name = "Public Health"
   description = "Condimentum vitae sapienCondimentum vitae sapien"
-
-[[feature]]
-  icon = "inspire"
-  icon_pack = "ai"
-  name = "Public speaking"
-  description = "sapienCondimentum vitae sapien"
 
 +++
