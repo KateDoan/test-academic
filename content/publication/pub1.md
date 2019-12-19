@@ -1,6 +1,7 @@
-+++
-title = "My publication"
+---
+title : "My publication"
 
-[dataset]
-  url = "https://sourcethemes.com/academic/docs/install"
-+++
+social:
+- icon: "da"
+  link:  "https://sourcethemes.com/academic/docs/install"
+---
