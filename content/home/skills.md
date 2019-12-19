@@ -18,18 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Fusce ut placerat orci nulla"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Modelling"
+  description = "Ultricies tristique nulla aliquet enim"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "handshake"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Collaboration"
+  description = "Condimentum vitae sapienCondimentum vitae sapien"
+
+[[feature]]
+  icon = "inspire"
+  icon_pack = "ai"
+  name = "Public speaking"
+  description = "sapienCondimentum vitae sapien"
 
 +++
