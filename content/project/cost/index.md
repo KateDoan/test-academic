@@ -34,6 +34,12 @@ $$\gamma_{n} = \frac{
 \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}
 {\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
 
+```python
+# Example of code highlighting
+input_string_var = input("Enter some data: ")
+print("You entered: {}".format(input_string_var))
+```
+
 ### Lecture Notes
 [Lecture1](https://github.com/KateDoan/demo_hugo/raw/master/pdf_demo.pdf)
 

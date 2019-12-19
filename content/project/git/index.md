@@ -11,6 +11,12 @@ links:
 ---
 Loreamdfdf dfasfd Loreamdfdf dfasfd Loreamdfdf dfasfd Dictum at tempor commodo ullamcorper a lacus vestibulum sed arcu. Mattis ullamcorper velit sed ullamcorper morbi. Lacus vel facilisis volutpat est velit egestas dui id. Sed viverra ipsum nunc aliquet bibendum enim facilisis.
 
+```python
+# Example of code highlighting
+input_string_var = input("Enter some data: ")
+print("You entered: {}".format(input_string_var))
+```
+
 ```mermaid
 graph TD;
   A-->B;
