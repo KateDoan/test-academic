@@ -1,5 +1,5 @@
 ---
-title: "Common modelling mistakes that novices made"
+title: "CAugue interdum velit euismod in pellentesqommon"
 date: 2019-12-18T12:32:32+08:00
 authors: ["jean-bond"]
 tags: ["Epi Modelling", "R"]

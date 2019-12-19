@@ -18,6 +18,7 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
+  tags = ["R"]
   description = "Fusce ut placerat orci nulla"
   
 [[feature]]
