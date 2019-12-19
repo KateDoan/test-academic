@@ -7,6 +7,8 @@ links:
     icon: github
     name: GitHub
     url: 'https://github.com/KateDoan/demo_hugo.git'
+  - name: Agenda
+    url: 'https://github.com/KateDoan/demo_hugo/blob/master/pdf_demo.pdf'
 ---
 **Duration**: 2 hours
 
