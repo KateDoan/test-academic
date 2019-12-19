@@ -19,7 +19,7 @@
   weight = 80
 
 [[main]]
-  name = "Page1"
+  name = "Blog"
   url = "page1"
   weight = 70
 
