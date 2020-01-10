@@ -1,5 +1,5 @@
 ---
-title: My ex1 post
+title: My simple post with no figures
 ---
 
-This is the content of my post.
+This is the content of my simple post.
