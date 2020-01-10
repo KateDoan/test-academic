@@ -5,7 +5,16 @@ title: My ex2 post title
 This is the content of my post.
 
 # My link
-Here I insert the link to a file. Remember to replace the example link by the link to your file.
+Here I insert the link to a file. Remember to replace the example link by the permanent link to your file.
+
+Once you have uploaded a file to GitHub, you can get the permanent link for the file by:
+- Click on the file name
+- Press y
+- Get the permanent link for the file from the address bar of your browser. 
+An example of the permanent link is:
+https://github.com/KateDoan/test-academic/blob/74c0617325467f824cd060bca397fa0504d76a58/content/practical/my-ex2-post/chickenpox.xlsx
+
+A permanent link should contain the complex alpha-numeric string such as ‘74c06...76a58’ in the link above. If you don’t see such a string in your link, then repeat the steps instructed above to get the permanent link.
 
 [Click here to download the excel file](https://github.com/KateDoan/test-academic/blob/1afe739c60ecafa402666029437a04ac77ff164e/content/practical/my-ex2-post/chickenpox.xlsx)
 
